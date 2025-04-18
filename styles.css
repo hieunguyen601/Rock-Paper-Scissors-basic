@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Libre Baskerville", serif;
+    background: linear-gradient(90deg, rgba(32, 70, 102, 1) 0%, rgba(3, 26, 12, 1) 50%, rgba(18, 34, 59, 1) 100%);
+    color: #fff;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.thing {
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    width: 80%;
+    height: 450px;
+}
+
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
